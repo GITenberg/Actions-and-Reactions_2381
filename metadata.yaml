@@ -1,0 +1,39 @@
+_repo: Actions-and-Reactions_2381
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 2381/2381-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: An habitation enforced -- The recall -- Garm, a hostage -- The power
+  of the dog -- The mother hive -- The bees and the flies -- With the night mail --
+  The four angels -- A deal in cotton -- The new knighthood -- The puzzler -- The
+  puzzler [poem] -- Little foxes -- Gallio's song -- The house surgeon -- The rabbi's
+  song.
+title: Actions and Reactions
+url: http://www.gutenberg.org/ebooks/2381
